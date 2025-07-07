@@ -9,7 +9,7 @@ The platform supports two user roles — Students and Recruiters — each with t
 
 The application includes a responsive landing page, secure login/signup system, and a fully dynamic UI for a seamless experience across user types.
 
-<h3>• ✅ Key Features:</h3>
+<h2>• ✅ Key Features:</h2>
 
 <h3>👥 Authentication & User Roles</h3>
 
@@ -47,4 +47,41 @@ The application includes a responsive landing page, secure login/signup system, 
 3.Database: MongoDB 🗃️
 
 4.Authentication: JWT (JSON Web Tokens) 🔑
+
+<h2>User Interface</h2>
+
+<h3></h3>
+<img src=""><br>
+
+<h3></h3>
+<img src=""><br>
+
+<h3></h3>
+<img src=""><br>
+
+<h3></h3>
+<img src=""><br>
+
+<h3></h3>
+<img src=""><br>
+
+<h3></h3>
+<img src=""><br>
+
+<h3></h3>
+<img src=""><br>
+
+<h3></h3>
+<img src=""><br>
+
+<h3></h3>
+<img src=""><br>
+
+
+<h3></h3>
+<img src=""><br>
+<h3></h3>
+<img src=""><br>
+
+
 
