@@ -12,24 +12,24 @@ The application includes a responsive landing page, secure login/signup system, 
 • ✅ Key Features:
 👥 Authentication & User Roles
 
-1.Student and Recruiter role-based login/signup
-2.JWT-based secure authentication
-3.Protected routes for authenticated users
+1.Student and Recruiter role-based login/signup<br>
+2.JWT-based secure authentication<br>
+3.Protected routes for authenticated users<br>
 
 🧑‍🎓 Student Features
-1.Browse all available jobs
-2.Filter jobs by location, industry, and salary
-3.Apply to jobs
-4.View application status on profile dashboard
+1.Browse all available jobs<br>
+2.Filter jobs by location, industry, and salary<br>
+3.Apply to jobs<br>
+4.View application status on profile dashboard<br>
 
 🧑‍💼 Recruiter Features
-1.Register and manage company profile
-2.Post new job openings
-3.View list of applicants per job
-4.Accept or reject applicants
+1.Register and manage company profile<br>
+2.Post new job openings<br>
+3.View list of applicants per job<br>
+4.Accept or reject applicants<br>
 
 🖥️ General Features
-1.Fully responsive UI (Landing page, Dashboards)
-2.Real-time job listings and status updates
-3.Role-based navigation
-4.Logout functionality
+1.Fully responsive UI (Landing page, Dashboards)<br>
+2.Real-time job listings and status updates<br>
+3.Role-based navigation<br>
+4.Logout functionality<br>
