@@ -37,3 +37,14 @@ The application includes a responsive landing page, secure login/signup system, 
 2.Real-time job listings and status updates<br>
 3.Role-based navigation<br>
 4.Logout functionality<br>
+
+<h2>•💻 Tech Stack</h2>
+
+1.Frontend: React.js ⚛️
+
+2.Backend: Node.js, Express 🚀
+
+3.Database: MongoDB 🗃️
+
+4.Authentication: JWT (JSON Web Tokens) 🔑
+
