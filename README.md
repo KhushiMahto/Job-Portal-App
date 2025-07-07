@@ -9,7 +9,8 @@ The platform supports two user roles — Students and Recruiters — each with t
 
 The application includes a responsive landing page, secure login/signup system, and a fully dynamic UI for a seamless experience across user types.
 
-• ✅ Key Features:<br>
+• ✅ Key Features:
+
 👥 Authentication & User Roles<br>
 
 1.Student and Recruiter role-based login/signup<br>
@@ -24,12 +25,14 @@ The application includes a responsive landing page, secure login/signup system, 
 4.View application status on profile dashboard<br>
 
 🧑‍💼 Recruiter Features
+
 1.Register and manage company profile<br>
 2.Post new job openings<br>
 3.View list of applicants per job<br>
 4.Accept or reject applicants<br>
 
 🖥️ General Features
+
 1.Fully responsive UI (Landing page, Dashboards)<br>
 2.Real-time job listings and status updates<br>
 3.Role-based navigation<br>
