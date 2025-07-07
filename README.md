@@ -9,7 +9,7 @@ The platform supports two user roles — Students and Recruiters — each with t
 
 The application includes a responsive landing page, secure login/signup system, and a fully dynamic UI for a seamless experience across user types.
 
-• ✅ Key Features:
+<h2>• ✅ Key Features:</h2>
 
 👥 Authentication & User Roles<br>
 
