@@ -1,5 +1,5 @@
 # JOB PORTAL APP
-Job Portal is a full-stack web application built with the MERN stack (MongoDB, Express, React, Node.js), designed to streamline the job search and hiring process for both students and recruiters.
+This Job Portal App is a full-stack web application built with the MERN stack (MongoDB, Express, React, Node.js), designed to streamline the job search and hiring process for both students and recruiters.
 
 The platform supports two user roles — Students and Recruiters — each with tailored functionalities:
 
