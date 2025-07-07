@@ -50,38 +50,36 @@ The application includes a responsive landing page, secure login/signup system, 
 
 <h2>User Interface</h2>
 
-<h3></h3>
-<img src=""><br>
+<h3>1. Home Page</h3>
+<img src="https://github.com/KhushiMahto/Job-Portal-App/blob/48502da0ff6d5cbf4bee4bad0a34c32d0abe93fb/JobPortalApp_Screenshots/Home%20Page%201.png"><br>
+<img src="https://github.com/KhushiMahto/Job-Portal-App/blob/48502da0ff6d5cbf4bee4bad0a34c32d0abe93fb/JobPortalApp_Screenshots/Home%20Page%202.png"><br>
 
-<h3></h3>
-<img src=""><br>
+<h3>2. Sign Up</h3>
+<img src="https://github.com/KhushiMahto/Job-Portal-App/blob/48502da0ff6d5cbf4bee4bad0a34c32d0abe93fb/JobPortalApp_Screenshots/Sign%20Up.png"><br>
+              
+<h3>3. Login</h3>
+<img src="https://github.com/KhushiMahto/Job-Portal-App/blob/48502da0ff6d5cbf4bee4bad0a34c32d0abe93fb/JobPortalApp_Screenshots/Login.png"><br>
 
-<h3></h3>
-<img src=""><br>
+<h3>4. Jobs Page</h3>
+<img src="https://github.com/KhushiMahto/Job-Portal-App/blob/48502da0ff6d5cbf4bee4bad0a34c32d0abe93fb/JobPortalApp_Screenshots/Jobs%20Page.png"><br>
 
-<h3></h3>
-<img src=""><br>
+<h3>5. Browse Page</h3>
+<img src="https://github.com/KhushiMahto/Job-Portal-App/blob/48502da0ff6d5cbf4bee4bad0a34c32d0abe93fb/JobPortalApp_Screenshots/Browse%20Page.png"><br>
 
-<h3></h3>
-<img src=""><br>
+<h3>6. Registered Companies</h3>
+<img src="https://github.com/KhushiMahto/Job-Portal-App/blob/48502da0ff6d5cbf4bee4bad0a34c32d0abe93fb/JobPortalApp_Screenshots/Recruiter%20Company.png"><br>
 
-<h3></h3>
-<img src=""><br>
+<h3>7. Jobs Posted</h3>
+<img src="https://github.com/KhushiMahto/Job-Portal-App/blob/48502da0ff6d5cbf4bee4bad0a34c32d0abe93fb/JobPortalApp_Screenshots/Recruiter%20Jobs.png"><br>
 
-<h3></h3>
-<img src=""><br>
+<h3>8. New Company Registeration</h3>
+<img src="https://github.com/KhushiMahto/Job-Portal-App/blob/48502da0ff6d5cbf4bee4bad0a34c32d0abe93fb/JobPortalApp_Screenshots/Register%20New%20Company.png"><br>
 
-<h3></h3>
-<img src=""><br>
+<h3>9. Posting New Job</h3>
+<img src="https://github.com/KhushiMahto/Job-Portal-App/blob/48502da0ff6d5cbf4bee4bad0a34c32d0abe93fb/JobPortalApp_Screenshots/Post%20New%20Job.png"><br>
 
-<h3></h3>
-<img src=""><br>
-
-
-<h3></h3>
-<img src=""><br>
-<h3></h3>
-<img src=""><br>
+<h3>10. Student Profile and Application Status</h3>
+<img src="https://github.com/KhushiMahto/Job-Portal-App/blob/48502da0ff6d5cbf4bee4bad0a34c32d0abe93fb/JobPortalApp_Screenshots/Student%20Profile.png"><br>
 
 
 
